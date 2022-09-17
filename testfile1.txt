@@ -3,3 +3,4 @@ Second line;
 a new branch: dev
 master
 feature1
+no fast forward
