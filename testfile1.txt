@@ -7,3 +7,5 @@ no fast forward.
 a
 b
 c
+Bug fix;
+
